@@ -42,7 +42,9 @@ Waypoint Tracker enables organizers to guide and monitor participants along pred
 
 ##  Project Setup
 
-### Backend: Laravel API
+---
+
+## Backend: Laravel API
 
 1. Navigate to backend folder:
    ```bash
@@ -76,11 +78,10 @@ php artisan migrate
 
 6. Start backend server:
 ```bash
-
 php artisan serve --host=192.168.0.101 --port=8001
  ```
 
-###Frontend: React Native with Expo
+## Frontend: React Native with Expo:
 1.Navigate to frontend folder:
 ```bash
 cd your-frontend-folder
